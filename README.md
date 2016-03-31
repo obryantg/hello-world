@@ -1,2 +1,3 @@
 # hello-world
-notes and stuff
+
+newbie here just hashing out everything
